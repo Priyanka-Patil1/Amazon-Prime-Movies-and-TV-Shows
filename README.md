@@ -60,9 +60,7 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 - Visualizations provide a clear representation of user engagement, content popularity, and viewing habits.
 
 
-
-
-
+![Screenshot 2024-07-23 174245](https://github.com/user-attachments/assets/0cd62bea-e3c5-4b0f-836f-afd50d6edb10)
 
 <br>
 
