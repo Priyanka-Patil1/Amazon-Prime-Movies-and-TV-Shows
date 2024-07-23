@@ -37,7 +37,6 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 - [🌟 Tech Stack](#techstack)
 - [💡 Insights Derived](#insights-derived)
 - [🔮 Future Scope](#future-scope)
-- [📋 License](#license)
  
 <br>
 
@@ -116,13 +115,6 @@ This project focuses on exploring and analyzing user behavior on the Amazon Prim
 -**Advanced Visualizations**: Implement advanced visualization techniques, such as network graphs or 3D visualizations, to uncover complex relationships in content data.
 
 <br>
-
-## 📋 License
-This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
-
-<br>
-
-For questions or feedback, please contact: ppatil723@gmail.com
 
 Enjoy exploring the project!
 
